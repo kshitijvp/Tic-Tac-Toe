@@ -1,7 +1,17 @@
-This is a tic tac toe game 
+# Tic Tac Toe
 
-For fun puposes
+## Overview
 
-If you have any doubts let me know in the issues section
+Tic Tac Toe is a classic two-player game where players take turns marking spaces in a 3x3 grid. The objective is to place three of your marks in a horizontal, vertical, or diagonal row to win the game. This project provides a simple implementation of the game in Python with a graphical user interface (GUI).
 
-Thank you and don't forget to follow 🙏🙏
+## Features
+
+- Play against another player.
+- Display the game board in the terminal/console.
+- Check for win conditions and handle draws.
+- Restart the game.
+
+### Prerequisites
+
+- Compiler : Python Compiler
+- Libraries Used: Tkinter
